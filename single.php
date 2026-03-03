@@ -167,7 +167,7 @@
                         <h3>Новости и обновления</h3>
                         <form action="#">
                             <div class="form-group">
-                                <input type="text" name="news" id="news" placeholder="Email Адрес*" required>
+                                <input disable type="text" name="news" id="news" placeholder="Email Адрес*" required>
                                 <button type="submit">Подписаться</button>
                             </div>
                         </form>

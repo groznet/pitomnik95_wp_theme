@@ -36,14 +36,14 @@
                             novalidate="novalidate">
                             <div class="row">
                                 <div class="col-md-12 col-12 form-field">
-                                    <input type="text" class="form-control" name="name" id="name"
+                                    <input disable type="text" class="form-control" name="name" id="name"
                                         placeholder="Имя" autocomplete="name">
                                 </div>
                                 <div class="col-md-6 col-12 form-field">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Email">
+                                    <input disable type="email" class="form-control" name="email" id="email" placeholder="Email">
                                 </div>
                                 <div class="col-md-6 col-12 form-field">
-                                    <input type="text" class="form-control" name="phone" id="phone" placeholder="Телефон">      
+                                    <input disable type="text" class="form-control" name="phone" id="phone" placeholder="Телефон">      
                                 </div>
                                 <div class="col-md-12 col-12 form-field">
                                     <textarea name="message" id="message" placeholder="Сообщение"></textarea>

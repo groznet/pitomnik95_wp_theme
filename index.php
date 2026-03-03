@@ -186,7 +186,7 @@
                         <p>Подпишись на нашу новостную рассылку, чтобы получать последние новости и обновления.</p>
                         <form action="#">
                             <div class="form-group">
-                                <input type="text" name="news" id="news" placeholder="Email адрес*" required>
+                                <input disable type="text" name="news" id="news" placeholder="Email адрес*" required>
                                 <button type="submit">Подписаться</button>
                             </div>
                         </form>

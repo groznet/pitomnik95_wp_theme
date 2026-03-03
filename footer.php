@@ -48,7 +48,7 @@
                                         </div>
                                         <form action="#">
                                             <div class="form-field">
-                                                <input type="email" placeholder="Ваш Email..." id="emails"
+                                                <input disable type="email" placeholder="Ваш Email..." id="emails"
                                                     required>
                                                 <button type="submit">Подписаться</button>
                                             </div>
