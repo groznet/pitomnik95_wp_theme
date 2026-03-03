@@ -7,10 +7,10 @@
         <div class="form-inputs">
             <div class="row">
                 <div class="col-lg-6 form-field">
-                    <input disable type="text" placeholder="Ваше имя*">
+                    <input disabled type="text" placeholder="Ваше имя*">
                 </div>
                 <div class="col-lg-6 form-field">
-                    <input disable type="text" placeholder="Ваш E-mail*">
+                    <input disabled type="text" placeholder="Ваш E-mail*">
 
                 </div>
                 <div class="col-lg-12 form-textarea">
@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-lg-12 check-form">
 
-                    <input disable type="checkbox" id="vehicle1" name="vehicle1"
+                    <input disabled type="checkbox" id="vehicle1" name="vehicle1"
                         value="Bike">
                     <label for="vehicle1">Сохранить мое имя, адрес электронной почты и имя и когда я снова разместить комментарий на этом сайте</label><br>
                 </div>

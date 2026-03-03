@@ -105,7 +105,7 @@ Use its data to analyze, update, and replace demo content dynamically in the cod
                                                     <li><a href="<?php echo home_url(); ?>/projects">Проекты</a></li>
                                                     <li><a href="<?php echo home_url(); ?>/blog">Блог</a></li>
                                                     <li><a href="<?php echo home_url(); ?>/faq">ЧАВО</a></li>
-                                                    <li><a href="<?php echo home_url(); ?>/about">О Компании</a></li>
+                                                    <li><a href="<?php echo home_url(); ?>/about">О Питомнике</a></li>
                                                     <li><a href="<?php echo home_url(); ?>/contact">Контакты</a></li>
                                                 </ul>
                                             </nav>

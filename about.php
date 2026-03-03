@@ -339,21 +339,21 @@
                             novalidate="novalidate">
                             <div class="row">
                                 <div class="col-md-12 col-12 form-field">
-                                    <input disable type="text" class="form-control" name="name" id="name"
+                                    <input disabled type="text" class="form-control" name="name" id="name"
                                         placeholder="Ваше имя" autocomplete="name">
                                 </div>
                                 <div class="col-md-12 col-12 form-field">
-                                    <input disable type="email" class="form-control" name="email" id="email"
+                                    <input disabled type="email" class="form-control" name="email" id="email"
                                         placeholder="Ваш email">
                                 </div>
                                 <div class="col-md-12 col-12 form-field">
 
-                                    <input disable type="text" class="form-control" name="phone" id="phone"
+                                    <input disabled type="text" class="form-control" name="phone" id="phone"
                                         placeholder="Ваш номер телефона">
                                 </div>
                                 <div class="col-md-12 col-12 form-field">
 
-                                    <textarea disable name="message" id="message"
+                                    <textarea disabled name="message" id="message"
                                         placeholder="Ваше сообщение"></textarea>
                                 </div>
                                 <div class="col-md-12 col-12">

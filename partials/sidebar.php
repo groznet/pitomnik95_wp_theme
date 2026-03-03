@@ -40,7 +40,7 @@
             </div>
             <form>
                 <div class="input-1">
-                    <input disable type="email" class="form-control" placeholder="Email адрес *" required="" id="femail">
+                    <input disabled type="email" class="form-control" placeholder="Email адрес *" required="" id="femail">
                     <div class="submit clearfix">
                         <button type="submit"><i class="ti-arrow-top-right"></i></button>
                     </div>

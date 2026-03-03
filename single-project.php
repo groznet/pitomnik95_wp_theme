@@ -87,16 +87,16 @@
                                         novalidate="novalidate">
                                         <div class="row">
                                             <div class="col-md-12 col-12 form-field">
-                                                <input disable type="text" class="form-control" name="name" id="name" placeholder="Имя" autocomplete="name">
+                                                <input disabled type="text" class="form-control" name="name" id="name" placeholder="Имя" autocomplete="name">
                                             </div>
                                             <div class="col-md-6 col-12 form-field">
-                                                <input disable type="email" class="form-control" name="email" id="email" placeholder="Email">
+                                                <input disabled type="email" class="form-control" name="email" id="email" placeholder="Email">
                                             </div>
                                             <div class="col-md-6 col-12 form-field">
-                                                <input disable type="text" class="form-control" name="phone" id="phone" placeholder="Телефон">
+                                                <input disabled type="text" class="form-control" name="phone" id="phone" placeholder="Телефон">
                                             </div>
                                             <div class="col-md-12 col-12 form-field">
-                                                <textarea disable name="message" id="message" placeholder="Сообщение" placeholder="Message"></textarea>
+                                                <textarea disabled name="message" id="message" placeholder="Сообщение" placeholder="Message"></textarea>
                                             </div>
                                             <div class="col-md-12 col-12">
                                                 <div class="submit-area">
@@ -150,7 +150,7 @@
                         <form action="#">
                             <div class="form-group">
 
-                                <input disable type="text" name="news" id="news" placeholder="Email Адрес*"
+                                <input disabled type="text" name="news" id="news" placeholder="Email Адрес*"
                                     required>
                                 <button type="submit">Подписаться</button>
                             </div>
