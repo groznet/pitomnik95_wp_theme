@@ -1,0 +1,203 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?h9mifz');
+  src:  url('../fonts/icomoon.eot?h9mifz#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?h9mifz') format('truetype'),
+    url('../fonts/icomoon.woff?h9mifz') format('woff'),
+    url('../fonts/icomoon.svg?h9mifz#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-video:before {
+  content: "\e900"
+}
+.icon-call-2:before {
+  content: "\e901"
+}
+.icon-call:before {
+  content: "\e902"
+}
+.icon-down-arrow-1:before {
+  content: "\e903"
+}
+.icon-email-1:before {
+  content: "\e904"
+}
+.icon-cart:before {
+  content: "\e905"
+}
+.icon-star-man:before {
+  content: "\e906"
+}
+.icon-bag:before {
+  content: "\e907"
+}
+.icon-badge:before {
+  content: "\e908"
+}
+.icon-support:before {
+  content: "\e909"
+}
+.icon-heart:before {
+  content: "\e90a"
+}
+.icon-man:before {
+  content: "\e90b"
+}
+.icon-calender:before {
+  content: "\e90c"
+}
+.icon-eco:before {
+  content: "\e90d"
+}
+.icon-money:before {
+  content: "\e90e"
+}
+.icon-srar2:before {
+  content: "\e90f"
+}
+.icon-tools:before {
+  content: "\e910"
+}
+.icon-tools2:before {
+  content: "\e911"
+}
+.icon-tools3:before {
+  content: "\e912"
+}
+.icon-waterpot:before {
+  content: "\e913"
+}
+.icon-home:before {
+  content: "\e914"
+}
+.icon-plus:before {
+  content: "\e915"
+}
+.icon-quote:before {
+  content: "\e916"
+}
+.icon-users:before {
+  content: "\e917"
+}
+.icon-compare:before {
+  content: "\e918"
+}
+.icon-tree-man:before {
+  content: "\e919"
+}
+.icon-tree:before {
+  content: "\e91a"
+}
+.icon-progress:before {
+  content: "\e91b"
+}
+.icon-badge2:before {
+  content: "\e91c"
+}
+.icon-handshake:before {
+  content: "\e91d"
+}
+.icon-team:before {
+  content: "\e91e"
+}
+.icon-gardening-1:before {
+  content: "\e91f"
+}
+.icon-gardening-tools-2-1:before {
+  content: "\e920"
+}
+.icon-gardening-tools-1:before {
+  content: "\e921"
+}
+.icon-clock:before {
+  content: "\e922"
+}
+.icon-growth-1:before {
+  content: "\e923"
+}
+.icon-menu-1:before {
+  content: "\e924"
+}
+.icon-price-tag-1:before {
+  content: "\e925"
+}
+.icon-pruning-shears-1:before {
+  content: "\e926"
+}
+.icon-quote-right-1:before {
+  content: "\e927"
+}
+.icon-ready-stock-1:before {
+  content: "\e928"
+}
+.icon-share-1:before {
+  content: "\e929"
+}
+.icon-spider-plant-1:before {
+  content: "\e92a"
+}
+.icon-star:before {
+  content: "\e92b"
+}
+.icon-user:before {
+  content: "\e92c"
+}
+.icon-watering-can-1:before {
+  content: "\e92d"
+}
+.icon-watering-can-2:before {
+  content: "\e92e"
+}
+.icon-search:before {
+  content: "\e92f"
+}
+.icon-check:before {
+  content: "\e930"
+}
+.icon-arrow-right:before {
+  content: "\e931"
+}
+.icon-linkedin:before {
+  content: "\e932"
+}
+.icon-angle-right:before {
+  content: "\e933"
+}
+.icon-angle-right-1:before {
+  content: "\e934"
+}
+.icon-behance:before {
+  content: "\e935"
+}
+.icon-facebook:before {
+  content: "\e936"
+}
+.icon-pin:before {
+  content: "\e937"
+}
+.icon-dribble:before {
+  content: "\e938"
+}
+.icon-cloud-download:before {
+  content: "\e939"
+}
+.icon-folder-lock:before {
+  content: "\e93a"
+}
