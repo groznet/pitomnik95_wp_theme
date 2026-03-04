@@ -46,7 +46,7 @@
                                         <div class="widget-title">
                                             <h3>Подпишитесь на рассылку</h3>
                                         </div>
-                                        <form action="#">
+                                        <form>
                                             <div class="form-field">
                                                 <input disabled type="email" placeholder="Ваш Email..." id="emails"
                                                     required>

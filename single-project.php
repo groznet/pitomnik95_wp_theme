@@ -147,7 +147,7 @@
 
                     <div class="update-widget widget">
                         <h3>Новости и обновления</h3>
-                        <form action="#">
+                        <form>
                             <div class="form-group">
 
                                 <input disabled type="text" name="news" id="news" placeholder="Email Адрес*"

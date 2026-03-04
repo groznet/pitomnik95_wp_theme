@@ -184,7 +184,7 @@
                     <div class="update-widget widget">
                         <h3>Новости и обновления</h3>
                         <p>Подпишись на нашу новостную рассылку, чтобы получать последние новости и обновления.</p>
-                        <form action="#">
+                        <form>
                             <div class="form-group">
                                 <input disabled type="text" name="news" id="news" placeholder="Email адрес*" required>
                                 <button type="submit">Подписаться</button>
